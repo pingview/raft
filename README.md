@@ -1,2 +1,2 @@
-# raft
+# replica
 Review replication
